@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning how to deploy contact on chain
 - 💞️ I’m looking to collaborate on learning 
 - 📫 How to reach me Twitter @XMieftha
+- farcaster: mieftha
+- discord: mieftha
+  
 
 <!---
 mieftha/mieftha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
